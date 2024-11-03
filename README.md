@@ -11,4 +11,4 @@ To install the package, clone this repository and use `devtools::install()` to i
 install.packages("devtools")
 
 # Install the package
-devtools::install_github("yourusername/yourpackage")
+devtools::install_github("spaccedementia/hb_lab")
