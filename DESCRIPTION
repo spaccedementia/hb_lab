@@ -1,12 +1,11 @@
 Package: spacedementia
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Simple package that converts R code to LaTeX input. 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Gulim Alkenova
+Maintainer: The package maintainer 
+Description: Works with lm and glm models. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2

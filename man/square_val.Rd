@@ -17,4 +17,5 @@ Square a value
 }
 \examples{
 -square_val(2)
+-square_val(16)
 }
